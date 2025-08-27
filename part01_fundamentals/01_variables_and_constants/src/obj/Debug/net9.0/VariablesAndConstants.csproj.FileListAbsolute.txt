@@ -1,0 +1,12 @@
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part01_fundamentals/01_variables_and_constants/src/bin/Debug/net9.0/VariablesAndConstants.deps.json
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part01_fundamentals/01_variables_and_constants/src/bin/Debug/net9.0/VariablesAndConstants.dll
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part01_fundamentals/01_variables_and_constants/src/bin/Debug/net9.0/VariablesAndConstants.pdb
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part01_fundamentals/01_variables_and_constants/src/obj/Debug/net9.0/VariablesAndConstants.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part01_fundamentals/01_variables_and_constants/src/obj/Debug/net9.0/VariablesAndConstants.AssemblyInfoInputs.cache
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part01_fundamentals/01_variables_and_constants/src/obj/Debug/net9.0/VariablesAndConstants.AssemblyInfo.cs
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part01_fundamentals/01_variables_and_constants/src/obj/Debug/net9.0/VariablesAndConstants.csproj.CoreCompileInputs.cache
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part01_fundamentals/01_variables_and_constants/src/obj/Debug/net9.0/VariablesAndConstants.sourcelink.json
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part01_fundamentals/01_variables_and_constants/src/obj/Debug/net9.0/VariablesAndConstants.dll
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part01_fundamentals/01_variables_and_constants/src/obj/Debug/net9.0/refint/VariablesAndConstants.dll
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part01_fundamentals/01_variables_and_constants/src/obj/Debug/net9.0/VariablesAndConstants.pdb
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part01_fundamentals/01_variables_and_constants/src/obj/Debug/net9.0/ref/VariablesAndConstants.dll

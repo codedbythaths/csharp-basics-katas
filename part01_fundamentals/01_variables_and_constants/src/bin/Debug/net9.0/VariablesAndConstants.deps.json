@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "VariablesAndConstants/1.0.0": {
+        "runtime": {
+          "VariablesAndConstants.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VariablesAndConstants/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

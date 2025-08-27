@@ -1,0 +1,12 @@
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part03_advanced/05_linq/src/bin/Debug/net9.0/Linq.deps.json
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part03_advanced/05_linq/src/bin/Debug/net9.0/Linq.dll
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part03_advanced/05_linq/src/bin/Debug/net9.0/Linq.pdb
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part03_advanced/05_linq/src/obj/Debug/net9.0/Linq.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part03_advanced/05_linq/src/obj/Debug/net9.0/Linq.AssemblyInfoInputs.cache
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part03_advanced/05_linq/src/obj/Debug/net9.0/Linq.AssemblyInfo.cs
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part03_advanced/05_linq/src/obj/Debug/net9.0/Linq.csproj.CoreCompileInputs.cache
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part03_advanced/05_linq/src/obj/Debug/net9.0/Linq.sourcelink.json
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part03_advanced/05_linq/src/obj/Debug/net9.0/Linq.dll
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part03_advanced/05_linq/src/obj/Debug/net9.0/refint/Linq.dll
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part03_advanced/05_linq/src/obj/Debug/net9.0/Linq.pdb
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part03_advanced/05_linq/src/obj/Debug/net9.0/ref/Linq.dll

@@ -1,0 +1,12 @@
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part01_fundamentals/07_text_processing/src/bin/Debug/net9.0/TextProcessing.deps.json
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part01_fundamentals/07_text_processing/src/bin/Debug/net9.0/TextProcessing.dll
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part01_fundamentals/07_text_processing/src/bin/Debug/net9.0/TextProcessing.pdb
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part01_fundamentals/07_text_processing/src/obj/Debug/net9.0/TextProcessing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part01_fundamentals/07_text_processing/src/obj/Debug/net9.0/TextProcessing.AssemblyInfoInputs.cache
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part01_fundamentals/07_text_processing/src/obj/Debug/net9.0/TextProcessing.AssemblyInfo.cs
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part01_fundamentals/07_text_processing/src/obj/Debug/net9.0/TextProcessing.csproj.CoreCompileInputs.cache
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part01_fundamentals/07_text_processing/src/obj/Debug/net9.0/TextProcessing.sourcelink.json
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part01_fundamentals/07_text_processing/src/obj/Debug/net9.0/TextProcessing.dll
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part01_fundamentals/07_text_processing/src/obj/Debug/net9.0/refint/TextProcessing.dll
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part01_fundamentals/07_text_processing/src/obj/Debug/net9.0/TextProcessing.pdb
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part01_fundamentals/07_text_processing/src/obj/Debug/net9.0/ref/TextProcessing.dll

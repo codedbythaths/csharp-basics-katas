@@ -1,0 +1,12 @@
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part01_fundamentals/08_files_and_directories/src/bin/Debug/net9.0/FilesAndDirectories.deps.json
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part01_fundamentals/08_files_and_directories/src/bin/Debug/net9.0/FilesAndDirectories.dll
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part01_fundamentals/08_files_and_directories/src/bin/Debug/net9.0/FilesAndDirectories.pdb
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part01_fundamentals/08_files_and_directories/src/obj/Debug/net9.0/FilesAndDirectories.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part01_fundamentals/08_files_and_directories/src/obj/Debug/net9.0/FilesAndDirectories.AssemblyInfoInputs.cache
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part01_fundamentals/08_files_and_directories/src/obj/Debug/net9.0/FilesAndDirectories.AssemblyInfo.cs
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part01_fundamentals/08_files_and_directories/src/obj/Debug/net9.0/FilesAndDirectories.csproj.CoreCompileInputs.cache
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part01_fundamentals/08_files_and_directories/src/obj/Debug/net9.0/FilesAndDirectories.sourcelink.json
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part01_fundamentals/08_files_and_directories/src/obj/Debug/net9.0/FilesAndDirectories.dll
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part01_fundamentals/08_files_and_directories/src/obj/Debug/net9.0/refint/FilesAndDirectories.dll
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part01_fundamentals/08_files_and_directories/src/obj/Debug/net9.0/FilesAndDirectories.pdb
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part01_fundamentals/08_files_and_directories/src/obj/Debug/net9.0/ref/FilesAndDirectories.dll

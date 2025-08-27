@@ -1,0 +1,12 @@
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part03_advanced/04_extension_methods/src/bin/Debug/net9.0/ExtensionMethods.deps.json
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part03_advanced/04_extension_methods/src/bin/Debug/net9.0/ExtensionMethods.dll
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part03_advanced/04_extension_methods/src/bin/Debug/net9.0/ExtensionMethods.pdb
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part03_advanced/04_extension_methods/src/obj/Debug/net9.0/ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part03_advanced/04_extension_methods/src/obj/Debug/net9.0/ExtensionMethods.AssemblyInfoInputs.cache
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part03_advanced/04_extension_methods/src/obj/Debug/net9.0/ExtensionMethods.AssemblyInfo.cs
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part03_advanced/04_extension_methods/src/obj/Debug/net9.0/ExtensionMethods.csproj.CoreCompileInputs.cache
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part03_advanced/04_extension_methods/src/obj/Debug/net9.0/ExtensionMethods.sourcelink.json
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part03_advanced/04_extension_methods/src/obj/Debug/net9.0/ExtensionMethods.dll
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part03_advanced/04_extension_methods/src/obj/Debug/net9.0/refint/ExtensionMethods.dll
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part03_advanced/04_extension_methods/src/obj/Debug/net9.0/ExtensionMethods.pdb
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part03_advanced/04_extension_methods/src/obj/Debug/net9.0/ref/ExtensionMethods.dll

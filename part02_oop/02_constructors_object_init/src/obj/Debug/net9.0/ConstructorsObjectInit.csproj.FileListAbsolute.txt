@@ -1,0 +1,12 @@
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part02_oop/02_constructors_object_init/src/bin/Debug/net9.0/ConstructorsObjectInit.deps.json
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part02_oop/02_constructors_object_init/src/bin/Debug/net9.0/ConstructorsObjectInit.dll
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part02_oop/02_constructors_object_init/src/bin/Debug/net9.0/ConstructorsObjectInit.pdb
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part02_oop/02_constructors_object_init/src/obj/Debug/net9.0/ConstructorsObjectInit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part02_oop/02_constructors_object_init/src/obj/Debug/net9.0/ConstructorsObjectInit.AssemblyInfoInputs.cache
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part02_oop/02_constructors_object_init/src/obj/Debug/net9.0/ConstructorsObjectInit.AssemblyInfo.cs
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part02_oop/02_constructors_object_init/src/obj/Debug/net9.0/ConstructorsObjectInit.csproj.CoreCompileInputs.cache
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part02_oop/02_constructors_object_init/src/obj/Debug/net9.0/ConstructorsObjectInit.sourcelink.json
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part02_oop/02_constructors_object_init/src/obj/Debug/net9.0/ConstructorsObjectInit.dll
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part02_oop/02_constructors_object_init/src/obj/Debug/net9.0/refint/ConstructorsObjectInit.dll
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part02_oop/02_constructors_object_init/src/obj/Debug/net9.0/ConstructorsObjectInit.pdb
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part02_oop/02_constructors_object_init/src/obj/Debug/net9.0/ref/ConstructorsObjectInit.dll

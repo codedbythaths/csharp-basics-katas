@@ -1,0 +1,12 @@
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part02_oop/01_classes_basics/src/bin/Debug/net9.0/ClassesBasics.deps.json
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part02_oop/01_classes_basics/src/bin/Debug/net9.0/ClassesBasics.dll
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part02_oop/01_classes_basics/src/bin/Debug/net9.0/ClassesBasics.pdb
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part02_oop/01_classes_basics/src/obj/Debug/net9.0/ClassesBasics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part02_oop/01_classes_basics/src/obj/Debug/net9.0/ClassesBasics.AssemblyInfoInputs.cache
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part02_oop/01_classes_basics/src/obj/Debug/net9.0/ClassesBasics.AssemblyInfo.cs
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part02_oop/01_classes_basics/src/obj/Debug/net9.0/ClassesBasics.csproj.CoreCompileInputs.cache
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part02_oop/01_classes_basics/src/obj/Debug/net9.0/ClassesBasics.sourcelink.json
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part02_oop/01_classes_basics/src/obj/Debug/net9.0/ClassesBasics.dll
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part02_oop/01_classes_basics/src/obj/Debug/net9.0/refint/ClassesBasics.dll
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part02_oop/01_classes_basics/src/obj/Debug/net9.0/ClassesBasics.pdb
+/Users/thathsaraamarakoon/dev/csharp-career-path/csharp-basics-katas/part02_oop/01_classes_basics/src/obj/Debug/net9.0/ref/ClassesBasics.dll
