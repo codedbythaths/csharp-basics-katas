@@ -1,12 +1,7 @@
-# macOS
 .DS_Store
-
-# .NET build artifacts
 bin/
 obj/
 TestResults/
+.vscode/
 *.user
 *.suo
-
-# VS Code
-.vscode/
