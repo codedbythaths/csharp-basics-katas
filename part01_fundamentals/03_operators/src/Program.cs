@@ -1,7 +1,19 @@
 ﻿using System;
+using Operators.Math;
 
 namespace Operators
 {
+    public enum DayOfWeek
+    {
+        Sunday,
+        Monday,
+        Tuesday,
+        Wednesday,
+        Thursday,
+        Friday,
+        Saturday
+    }
+
     class Program
     {
         static void Main(string[] args)
@@ -51,6 +63,43 @@ namespace Operators
                 multi-line 
                 comment
             */
+            // Object Creation
+            Person person = new Person { Name = "Alice", Age = 30 };
+            person.Introduce();
+            // Object Creation
+            var calculator = new Calculator();
+            Console.WriteLine("Calculator Add: " + calculator.Add(5, 3));
+            Console.WriteLine("Calculator Subtract: " + calculator.Subtract(5, 3));
+            Console.WriteLine("Calculator Multiply: " + calculator.Multiply(5, 3));
+            Console.WriteLine("Calculator Divide: " + calculator.Divide(5, 3));
+            // Array Creation
+            int[] numbers = { 1, 2, 3, 4, 5 };
+            // Creating Strings
+            string list = string.Join(", ", numbers);
+            Console.WriteLine("Array Element: " + numbers[0]);
+            Console.WriteLine("Array Elements: " + list);
+            // Boolean Elements
+            var flags = new bool[] { true, false, true };
+            Console.WriteLine("Array Element: " + flags[0]);
+            // String Elements
+            string name = "Alice";
+            char firstInitial = name[0];
+            Console.WriteLine("First Initial: " + firstInitial);
+            // Escape Sequences
+            string filePath = "C:\\Program Files\\MyApp";
+            string verbatimPath = @"C:\Program Files\MyApp";
+            string quote = "She said, \"Hello!\"";
+            string multiLine = "Line 1\nLine 2\nLine 3";
+            Console.WriteLine("File Path: " + filePath);
+            Console.WriteLine("Verbatim Path: " + verbatimPath);
+            Console.WriteLine("Quote: " + quote);
+            Console.WriteLine("Multi-line: " + multiLine);
+            // Enums
+            DayOfWeek today = DayOfWeek.Wednesday;
+            Console.WriteLine("Today is: " + Enum.GetName(typeof(DayOfWeek), today));
+            // Types and Values
+            Console.WriteLine("Type of today: " + today.GetType());
+            Console.WriteLine("Value of today: " + (int)today);
         }
     }
 }
