@@ -35,6 +35,7 @@ namespace TypeConversion
             // int num = int.Parse(str); // This will throw an exception
             string str = "Hello";
             int num = int.TryParse(str, out int result) ? result : 0; // Safe parsing
+                // Operators
             // Output
             Console.WriteLine("Int: " + number);
             Console.WriteLine("Float: " + floatNumber);
@@ -52,7 +53,7 @@ namespace TypeConversion
             Console.WriteLine(byteFromLargeNumber);
             // Console.WriteLine(num); // This will throw an exception
             Console.WriteLine(num); // Safe parsing result
-            Console.WriteLine(num);
+            Console.WriteLine(result); // Safe parsing result
         }
     }
 }
