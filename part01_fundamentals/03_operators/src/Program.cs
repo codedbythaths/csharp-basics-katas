@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Runtime.CompilerServices;
 using Operators.Math;
 
 namespace Operators
@@ -100,6 +101,15 @@ namespace Operators
             // Types and Values
             Console.WriteLine("Type of today: " + today.GetType());
             Console.WriteLine("Value of today: " + (int)today);
+            // Traffic Light Simulator ENUM usage
+            var sim = new TrafficLightSimulator();
+            Console.WriteLine("Current Traffic Light: " + sim.CurrentLight); // Accessing the CurrentLight property Red
+            sim.ChangeLight();
+            Console.WriteLine("Current Traffic Light: " + sim.CurrentLight); // Accessing the CurrentLight property Green
+            sim.ChangeLight();
+            Console.WriteLine("Current Traffic Light: " + sim.CurrentLight); // Accessing the CurrentLight property Yellow
+            sim.ChangeLight();
+            Console.WriteLine("Current Traffic Light: " + sim.CurrentLight); // Accessing the CurrentLight property Red
         }
     }
 }
