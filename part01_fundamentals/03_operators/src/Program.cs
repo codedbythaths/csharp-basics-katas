@@ -110,6 +110,11 @@ namespace Operators
             Console.WriteLine("Current Traffic Light: " + sim.CurrentLight); // Accessing the CurrentLight property Yellow
             sim.ChangeLight();
             Console.WriteLine("Current Traffic Light: " + sim.CurrentLight); // Accessing the CurrentLight property Red
+            // use the helper class
+            // int[] number = { 5, 12, 36, 41, 15 };
+            // ArrayHelper arrayHelper = new ArrayHelper();
+            // int maximum = arrayHelper.FindMax(number);
+            // Console.WriteLine("The maximum number is " + maximum);
         }
     }
 }
