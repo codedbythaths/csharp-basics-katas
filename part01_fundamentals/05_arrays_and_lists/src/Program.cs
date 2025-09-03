@@ -1,12 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
+
 
 namespace ArraysAndLists
 {
+    enum WeekDays { Mon, Tue, Wed, Thur, Fri, Sat, Sun };
     class ArraysAndLists
     {
         static void Main(string[] args)
         {
+            /*
             // Single-dimensional array
             int[] numbers = new int[5];
             numbers[0] = 1;
@@ -129,6 +133,98 @@ namespace ArraysAndLists
             foreach (int number in numberList)
             {
                 Console.WriteLine(number);
+            }
+            */
+
+            // if statement katas
+            int k = 5;
+            if (k > 3) // evaluate condition: number > 3 -> 5 > 3 -> true
+                Console.WriteLine("Greater than 3");
+            else
+                Console.WriteLine("Not greater than 3");
+
+            // while loop katas
+            int i = 0;
+            while (i < 3) // check condition: i < 3 -> 0 < 3 -> true
+            {
+                Console.WriteLine(i); // execute body -> prints 0
+                i++; // increment i++ -> i = i + 1 -> i = 0 + 1 -> i = 1
+            }
+
+            // do-while loop katas
+            int j = 0;
+            do
+            {
+                Console.WriteLine(j); // no condition check yet -> execute body -> prints 0
+                j++; // increment j++ -> j = j + 1 -> j = 0 + 1 -> j = 1
+            } while (j < 3); // check condition: 1 < 3 -> true
+
+            // switch-case katas
+            WeekDays weekDays = WeekDays.Mon;
+
+            switch (weekDays)
+            {
+                case WeekDays.Mon: // case: "Mon": -> match found
+                    Console.WriteLine("Start of week"); // executes bosy -> prints "Start of week"
+                    break; // exit the sitch block immediately
+
+                case WeekDays.Fri:
+                    Console.WriteLine("Weekend soon");
+                    break;
+            }
+
+            string day = "Thurs";
+
+            string message = day switch
+            {
+                "Mon" => "Start of week",
+                "Fri" => "Weekend soon",
+                _ => "Other day"      // default case
+            };
+            Console.WriteLine(message);
+
+            // array katas
+            int[] numbers = { 20, 23, 54, 89, 12, 02, 33 };
+
+            // access
+            Console.WriteLine(numbers[2]);
+
+            // index of
+            int IndexOf = Array.IndexOf(numbers, 33);
+            Console.WriteLine(IndexOf);
+
+            // update
+            numbers[2] = 99;
+            Console.WriteLine(numbers[2]);
+
+            // for loop
+            for (i = 0; i < numbers.Length; i++)
+            {
+                Console.WriteLine(numbers[i]);
+            }
+
+            // for each
+            foreach (int n in numbers)
+            {
+                Console.WriteLine(n);
+            }
+
+            // sort
+            Array.Sort(numbers);
+
+            // reverse
+            Array.Reverse(numbers);
+
+            // Sum (LINQ)
+            int sum = numbers.Sum();
+            Console.WriteLine(sum);
+
+            // list
+            List<int> value = new List<int> { 1, 2, 3 };
+
+            foreach (int v in value)
+            {
+                Console.WriteLine(v);
             }
         }
     }
