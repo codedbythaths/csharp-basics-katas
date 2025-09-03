@@ -37,11 +37,11 @@ namespace ArraysAndLists
             matrix[2, 2] = 9;
 
             Console.WriteLine("Multi-dimensional array:");
-            for (int i = 0; i < 3; i++)
+            for (int a = 0; a < 3; a++)
             {
-                for (int j = 0; j < 3; j++)
+                for (int b = 0; b < 3; b++)
                 {
-                    Console.Write(matrix[i, j] + " ");
+                    Console.Write(matrix[a, b] + " ");
                 }
                 Console.WriteLine();
             }
