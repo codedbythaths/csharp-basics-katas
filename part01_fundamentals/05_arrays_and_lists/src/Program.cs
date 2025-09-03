@@ -10,7 +10,6 @@ namespace ArraysAndLists
     {
         static void Main(string[] args)
         {
-            /*
             // Single-dimensional array
             int[] numbers = new int[5];
             numbers[0] = 1;
@@ -134,7 +133,6 @@ namespace ArraysAndLists
             {
                 Console.WriteLine(number);
             }
-            */
 
             // if statement katas
             int k = 5;
