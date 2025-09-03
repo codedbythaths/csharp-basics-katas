@@ -182,39 +182,39 @@ namespace ArraysAndLists
             Console.WriteLine(message);
 
             // array katas
-            int[] numbers = { 20, 23, 54, 89, 12, 02, 33 };
+            int[] num = { 20, 23, 54, 89, 12, 02, 33 };
 
             // access
-            Console.WriteLine(numbers[2]);
+            Console.WriteLine(num[2]);
 
             // index of
-            int IndexOf = Array.IndexOf(numbers, 33);
+            int IndexOf = Array.IndexOf(num, 33);
             Console.WriteLine(IndexOf);
 
             // update
-            numbers[2] = 99;
-            Console.WriteLine(numbers[2]);
+            num[2] = 99;
+            Console.WriteLine(num[2]);
 
             // for loop
-            for (i = 0; i < numbers.Length; i++)
+            for (i = 0; i < num.Length; i++)
             {
-                Console.WriteLine(numbers[i]);
+                Console.WriteLine(num[i]);
             }
 
             // for each
-            foreach (int n in numbers)
+            foreach (int n in num)
             {
                 Console.WriteLine(n);
             }
 
             // sort
-            Array.Sort(numbers);
+            Array.Sort(num);
 
             // reverse
-            Array.Reverse(numbers);
+            Array.Reverse(num);
 
             // Sum (LINQ)
-            int sum = numbers.Sum();
+            int sum = num.Sum();
             Console.WriteLine(sum);
 
             // list
